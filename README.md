@@ -2,6 +2,12 @@
 
 We’re always on the lookout for companies and platforms that offer opportunities for technical writers. Here’s our latest, carefully curated list:  
 
+- 1. Tech Companies & Software Firms
+- 2. Developer-Focused Platforms  
+- 3. Tech Blogs & Online Publications
+- 4. Freelance Marketplaces & Content Agencies
+- Tips for Landing a Paid Technical Writing Gig 💡  
+     
 ---
 
 ## 1. Tech Companies & Software Firms  
@@ -80,10 +86,4 @@ If you prefer freelance opportunities, these platforms connect you with companie
 - Learn new tools and technologies to keep your content fresh.  
 
 ---
-### Tips for Landing a Paid Technical Writing Gig
-✔ Build a strong portfolio – Showcase well-written articles, API documentation, and tutorials.
-✔ Contribute to open-source projects – Writing documentation for GitHub projects improves credibility.
-✔ Engage with technical communities – Sites like Dev.to, Medium, and Hashnode help build your authority.
-✔ Pitch the right way – Research each company’s submission guidelines and craft compelling pitches.
-✔ Stay updated with industry trends – Follow tech blogs and keep improving your skills.
-✔ Network with developers and writers – Connections can lead to job referrals and freelance gigs.
+
