@@ -2,10 +2,10 @@
 
 We’re always on the lookout for companies and platforms that offer opportunities for technical writers. Here’s our latest, carefully curated list:  
 
-- 1. Tech Companies & Software Firms
-- 2. Developer-Focused Platforms  
-- 3. Tech Blogs & Online Publications
-- 4. Freelance Marketplaces & Content Agencies
+- Tech Companies & Software Firms
+- Developer-Focused Platforms  
+- Tech Blogs & Online Publications
+- Freelance Marketplaces & Content Agencies
 - Tips for Landing a Paid Technical Writing Gig 💡  
      
 ---
